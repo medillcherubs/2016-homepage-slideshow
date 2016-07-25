@@ -6,8 +6,8 @@ https://medillcherubs.github.io/2016-homepage-slideshow/
 Paste this into your Wordpress post:
 
 ```
-<div id="example"></div>
-<script type="text/javascript" src="//www.cherubs2015.org/wp-content/themes/cherubs-2015/js/vendor/pym.min.js"></script> <script> var pymParent = new pym.Parent("example", "//medillcherubs.github.io/2016-homepage-slideshow/index.html", {}); </script>
+<div id="homepage-slideshow"></div>
+<script type="text/javascript" src="//www.cherubs2015.org/wp-content/themes/cherubs-2015/js/vendor/pym.min.js"></script> <script> var pymParent = new pym.Parent("homepage-slideshow", "//medillcherubs.github.io/2016-homepage-slideshow/index.html", {}); </script>
 
 <!-- Edit: https://github.com/medillcherubs/2016-homepage-slideshow/edit/gh-pages/index.html -->
 ```
